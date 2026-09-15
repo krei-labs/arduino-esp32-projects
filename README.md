@@ -1,4 +1,4 @@
-<h1 align="center">Arduino & ESP32 Embedded Projects</h1>
+<h1 align="center">Arduino & ESP32 Embedded Projects</h1> 
 
 <p align="center">
   A curated collection of Arduino and ESP32 projects spanning sensors, displays, robotics, wireless control, and embedded web systems.
