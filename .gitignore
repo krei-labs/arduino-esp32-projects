@@ -1,0 +1,38 @@
+# ==============================
+# Arduino + ESP32 Projects Git Ignore
+# ==============================
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Arduino build / generated files
+build/
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.o
+
+# ESP32 / PlatformIO
+.pio/
+.piolibdeps/
+.vscode/
+platformio.ini.bak
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
